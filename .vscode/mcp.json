@@ -1,0 +1,17 @@
+{
+  "servers": {
+    "tarefas-stdio": {
+      "type": "stdio",
+      "command": "dotnet",
+      "args": [
+        "run",
+        "--project",
+        "${workspaceFolder}/src/TreinamentoMcp.ServidorStdio/TreinamentoMcp.ServidorStdio.csproj"
+      ]
+    },
+    "tarefas-http": {
+      "type": "http",
+      "url": "http://localhost:3001"
+    }
+  }
+}

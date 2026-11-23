@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="src/TreinamentoMcp.Dominio/TreinamentoMcp.Dominio.csproj" />
+  <Project Path="src/TreinamentoMcp.ServidorStdio/TreinamentoMcp.ServidorStdio.csproj" />
+  <Project Path="src/TreinamentoMcp.ServidorHttp/TreinamentoMcp.ServidorHttp.csproj" />
+  <Project Path="src/TreinamentoMcp.Cliente/TreinamentoMcp.Cliente.csproj" />
+  <Project Path="tests/TreinamentoMcp.TestesSmoke/TreinamentoMcp.TestesSmoke.csproj" />
+</Solution>
